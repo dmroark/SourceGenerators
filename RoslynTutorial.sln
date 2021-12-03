@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31911.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RoslynTutorial.SourceGenerators", "RoslynTutorial.SourceGenerators\RoslynTutorial.SourceGenerators.csproj", "{AE2CD59A-EB19-48A3-9F0B-CA95D66F6F24}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RoslynTutorial.Wpf", "RoslynTutorial.Wpf\RoslynTutorial.Wpf.csproj", "{C259221F-28CC-4784-B5AA-918019EFACB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE2CD59A-EB19-48A3-9F0B-CA95D66F6F24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE2CD59A-EB19-48A3-9F0B-CA95D66F6F24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE2CD59A-EB19-48A3-9F0B-CA95D66F6F24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE2CD59A-EB19-48A3-9F0B-CA95D66F6F24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C259221F-28CC-4784-B5AA-918019EFACB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C259221F-28CC-4784-B5AA-918019EFACB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C259221F-28CC-4784-B5AA-918019EFACB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C259221F-28CC-4784-B5AA-918019EFACB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5FCB5B0-0AA3-4D19-BA52-F10FCD4AADB1}
+	EndGlobalSection
+EndGlobal
